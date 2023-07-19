@@ -1,0 +1,15 @@
+{
+  "name": "HappiAirdropTicket",
+  "description": "HappiAirdropTicket is a unique and exclusive digital asset generated and issued by HappiAirdrop. It serves as a proof of participation in the game and can be used as a voucher for claiming rewards.",
+  "image": "https://happijack.on.fleek.co/ticket_nft.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Lottery Ticket"
+    },
+    {
+      "trait_type": "Game",
+      "value": "HappiAirdrop"
+    }
+  ]
+}
