@@ -1,1 +1,0 @@
-import{a0 as c,l as r,n as i,o as n,by as a,s as e,bz as u}from"./index-f231488b.js";function f(){const s=c(),o=r(),t=()=>s("/");return i.useEffect(()=>(n.instance.on(a.event,t),()=>{n.instance.off(a.event,t)}),[o.pathname]),e.jsx(e.Fragment,{children:e.jsx(u,{})})}export{f as default};
