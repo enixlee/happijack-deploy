@@ -1,0 +1,1 @@
+import{a3 as c,l as r,n as i,a7 as l,o as a,bF as n,s as e,bG as u}from"./index-cf6c177f.js";function m(){const s=c(),o=r(),t=()=>s("/");return i.useEffect(()=>(l.instance.setUser(null),a.instance.on(n.event,t),()=>{a.instance.off(n.event,t)}),[o.pathname]),e.jsx(e.Fragment,{children:e.jsx(u,{})})}export{m as default};
